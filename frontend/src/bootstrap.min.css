@@ -164,6 +164,7 @@ a {
 }
 a:hover {
   color: inherit;
+  
 }
 a:not([href]):not([class]) {
   color: inherit;
